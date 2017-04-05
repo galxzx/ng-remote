@@ -1,0 +1,11 @@
+{
+  "name": "ng-remote",
+  "scripts": {
+    "start": "node ./server/index.js"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
